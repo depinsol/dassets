@@ -1,0 +1,105 @@
+.text-title-xl {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.25;
+}
+
+.text-title-lg {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.3;
+
+}
+
+.text-title-md {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+
+}
+
+.text-title-sm {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.4;
+
+}
+
+.text-subtitle {
+    font-size: 16px;
+    line-height: 1.5;
+
+}
+
+.text-caption {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.4;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+
+}
+
+.text-body-lg {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.text-body-md {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+}
+
+.text-body-sm {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+
+}
+
+.text-body-xs {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #6b7280;
+
+}
+
+/* Цветовые модификаторы */
+.text-color-default {
+    color: #333333;
+}
+
+.dark .text-color-default {
+    color: #ffffff;
+}
+
+.text-color-secondary {
+    color: #6b7280;
+}
+
+.dark .text-color-secondary {
+    color: #9ca3af;
+}
+
+.text-color-success {
+    color: #16a34a;
+}
+
+.dark .text-color-success {
+    color: #22c55e;
+}
+
+.text-color-warning {
+    color: #f97316;
+}
+
+.text-color-error {
+    color: #dc2626;
+}
+
+.dark .text-color-error {
+    color: #ef4444;
+}
