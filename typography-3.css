@@ -1,12 +1,12 @@
 .text-title-xl {
     font-size: 32px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 1.25;
 }
 
 .text-title-lg {
     font-size: 24px;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 1.3;
 }
 
@@ -76,7 +76,6 @@
 }
 
 
-/* Цветовые модификаторы */
 .text-color-default {
     color: #1f2937;
 }
@@ -86,7 +85,7 @@
     color: #3b82f6;
 }
 .text-color-secondary {
-    color: #6b7280;
+    color: #4b5563
 }
 
 .text-color-success {
@@ -107,7 +106,7 @@
 }
 
 .text-color-on-dark-secondary {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgb(255, 255, 255);
 }
 
 .text-color-on-dark-muted {
